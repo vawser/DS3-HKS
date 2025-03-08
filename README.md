@@ -1,4 +1,4 @@
-# DS3 HKS Repository
+# Dark Souls III HKS Repository
 Contains pre-configured HKS files for Dark Souls III.
 
 HKS (HavokScript) files act as a interface script between inputs and animations, controlling the 'behavior' of the source entity
